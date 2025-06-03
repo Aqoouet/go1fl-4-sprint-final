@@ -1,6 +1,6 @@
-module github.com/Yandex-Practicum/tracker
+module github.com/Aqouet/go1fl-4-sprint-final
 
-go 1.24.1
+go 1.20
 
 require github.com/stretchr/testify v1.10.0
 
